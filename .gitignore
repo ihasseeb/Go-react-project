@@ -21,3 +21,10 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+
+# go files to be ignored
+*.mod
+*.sum
+*.out
+*.exe
